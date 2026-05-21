@@ -51,4 +51,16 @@ Once installed, launch the installer and keep all default settings and click fin
 <br />
 After downloading the software open the VMware Workstation application and click on "Create a New Virutal Machine"
 <img src="https://imgur.com/ufet22u.png" height="80%" width="80%" alt="Virtual Machine Creation"/>
+<br />
+<br />
+Go to the Microsoft iso website and select the download, confirming language settings
+<img src="https://imgur.com/qUscext.png" height="80%" width="80%" alt="Virtual Machine Creation"/>
+<br />
+<br />
+Keep "typical" selected and click next, click browse and find the iso download
+<img src="https://imgur.com/ufet22u.png" height="80%" width="80%" alt="Virtual Machine Creation"/>
+<br />
+<br />
+
+<img src="https://imgur.com/ufet22u.png" height="80%" width="80%" alt="Virtual Machine Creation"/>
 </p>
