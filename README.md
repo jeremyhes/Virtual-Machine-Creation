@@ -8,7 +8,7 @@ Project consists of a simple step by step tutorial of creating a Virual Machine
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b>
 
 <h2>Program walk-through:</h2>
 
@@ -49,6 +49,6 @@ Once installed, launch the installer and keep all default settings and click fin
 <img src="https://imgur.com/tV2hYQz.png" height="80%" width="80%" alt="Virtual Machine Creation"/>
 <br />
 <br />
-After downloading the software open the VMware Workstation application and click on "Create a New Virutal Machine
+After downloading the software open the VMware Workstation application and click on "Create a New Virutal Machine"
 <img src="https://imgur.com/ufet22u.png" height="80%" width="80%" alt="Virtual Machine Creation"/>
 </p>
