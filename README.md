@@ -26,7 +26,7 @@ Once logged in select Software -> Mainframe Software -> My Dashboard : <br/>
 <br />
 <br />
 On the next screen select "My downloads":  <br/>
-<img src="https://imgur.com/9Z7nFzF.png" height="80%" width="80%" alt="Virtual Machine Creation"/>
+<img src="https://imgur.com/9Z7nFzF.png" height="30%" width="30%" alt="Virtual Machine Creation"/>
 <br />
 <br />
 Click on "here":  <br/>
